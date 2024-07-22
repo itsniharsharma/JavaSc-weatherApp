@@ -11,3 +11,6 @@ Features and References for this Simple App:
 - Along with clicking search icon additional EventListener added for enter key
 - Just press enter and submit the response city.
 
+- ![WhatsApp Image 2024-07-22 at 11 20 39_be0f0b75](https://github.com/user-attachments/assets/43ccdaf7-aa48-44e6-8cd7-6362eb70945d)
+
+

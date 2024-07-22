@@ -16,6 +16,7 @@ Features and References for this Simple App:
 - ![WhatsApp Image 2024-07-22 at 11 20 39_be0f0b75](https://github.com/user-attachments/assets/43ccdaf7-aa48-44e6-8cd7-6362eb70945d)
 
 - Make sure to checkout
-- 
+- <link> https://www.instagram.com/itsniharsharma/ </link> <br>
+- <link> https://x.com/itsniharsharma </link>
 
 
